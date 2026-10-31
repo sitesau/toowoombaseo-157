@@ -1,0 +1,22 @@
+{
+  "wheel_id": 601,
+  "structure": "umbrella",
+  "slug": "toowoombaseo-157",
+  "project": "seo-services-toowoomba-signs-you-need-c853df92463d3f3f8a79bd",
+  "parent_t1_ref": "toowoombaseo-012",
+  "node_role": "buffer",
+  "money_target": "toowoombaseo.com.au",
+  "primary_kw": "seo services toowoomba signs you need",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/seo-services-toowoomba-signs-you-need-c853df92463d3f3f8a79bd/",
+  "tier": "T2",
+  "writeback_nonce": "4e6ec104a7e63adc",
+  "links": [
+    {
+      "target_url": "https://seo-services-toowoomba-toowoombaseo-012-00a0f4.gitlab.io/",
+      "anchor": "Seo Services Toowoomba: A Practical Buyer Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
